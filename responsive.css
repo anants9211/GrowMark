@@ -1,0 +1,379 @@
+/* responsive */
+
+@media screen and (max-width: 450.98px) {
+    .owl-nav {
+        position: absolute;
+        right: 120px !important;
+    }
+}
+
+@media screen and (max-width: 575.98px) {
+
+    .block-btn {
+        display: none;
+    }
+
+    .total-link {
+        padding: 10px 0px !important;
+    }
+
+    .navbar-expand-lg .navbar-nav .margin-left-side {
+        border: none;
+    }
+
+    #Construction-Company {
+        display: none;
+    }
+
+    .Clients {
+        font-size: 34px;
+    }
+
+    .navbar-cool-box {
+        top: 0px;
+    }
+
+    .gm-mark {
+        font-weight: 700;
+        font-size: 26px !important;
+        color: #1C2035 !important;
+    }
+
+    .space-top-bottom {
+        padding: 70px 0px 0px 0px;
+    }
+    .variations {
+        padding-top: 50px;
+    }
+
+    /* card  */
+
+    .workers {
+        font-size: 34px;
+    }
+
+    /* slider  */
+    .carousel-caption {
+        right: 5% !important;
+        left: 5% !important;
+        top: 10px;
+    }
+
+ 
+
+    .your-side {
+        font-size: 30px !important;
+        font-weight: 700 !important;
+        line-height: 1.2 !important;
+    }
+
+    .btn-small {
+        padding-top: 0.5rem !important;
+        padding-bottom: 0.5rem !important;
+    }
+
+    .btn-small {
+        padding-right: 2rem !important;
+        padding-left: 2rem !important;
+    }
+
+    .royal-image {
+        min-height: 280px;
+    }
+
+
+
+    /* slider 2 */
+
+    .testimonial {
+        font-weight: 500;
+        color: #4761FF;
+        text-align: center;
+    }
+
+    .left,
+    .right {
+        font-size: 20px;
+        font-size: 20px;
+        display: flex !important;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .Clients {
+        text-align: center;
+        margin-bottom: 60px;
+        font-weight: 700;
+        line-height: 1.2;
+    }
+
+    .owl-carousel .owl-dot,
+    .owl-carousel .owl-nav .owl-next,
+    .owl-carousel .owl-nav .owl-prev {
+        width: 45px;
+        height: 45px;
+    }
+
+    .owl-nav {
+        position: absolute;
+        top: -30px;
+        right: 210px;
+        font-size: 25px;
+        display: flex;
+    }
+
+      /* footer  */
+
+      .row.codex p {
+        text-align: center;
+    }
+
+}
+
+@media screen and (min-width: 576px) and (max-width: 767.98px) {
+
+    .block-btn {
+        display: none;
+    }
+
+    .total-link {
+        padding: 10px 0px !important;
+    }
+
+    .navbar-expand-lg .navbar-nav .margin-left-side {
+        border: none;
+    }
+
+    #Construction-Company {
+        display: none;
+    }
+
+    .navbar-cool-box {
+        top: 0px;
+    }
+
+    /* slider  */
+
+    .carousel-caption {
+        right: 5% !important;
+        left: 5% !important;
+        top: 10px;
+    }
+
+    .your-side {
+        font-size: 50px !important;
+        font-weight: 700 !important;
+        line-height: 1.2 !important;
+    }
+
+    .btn-small {
+        padding-top: 0.5rem !important;
+        padding-bottom: 0.5rem !important;
+    }
+
+    .btn-small {
+        padding-right: 2rem !important;
+        padding-left: 2rem !important;
+    }
+
+    .space-top-bottom {
+        padding: 50px 0px 0px 0px;
+    }
+
+    .variations {
+        padding-top: 50px;
+    }
+
+    /* card  */
+    .workers {
+        font-size: 38px;
+    }
+
+    /* slider 2  */
+
+    .gm-mark {
+        font-weight: 700;
+        font-size: 35px !important;
+        color: #1C2035 !important;
+    }
+
+    .testimonial {
+        font-weight: 500;
+        color: #4761FF;
+        text-align: center;
+    }
+
+    .Clients {
+        text-align: center;
+        margin-bottom: 60px;
+        font-weight: 700;
+        line-height: 1.2;
+    }
+
+    .owl-carousel .owl-dot,
+    .owl-carousel .owl-nav .owl-next,
+    .owl-carousel .owl-nav .owl-prev {
+        width: 45px;
+        height: 45px;
+    }
+
+    .owl-nav {
+        position: absolute;
+        top: -35px;
+        right: 210px;
+        font-size: 25px;
+    }
+
+
+      /* footer  */
+
+      .row.codex p {
+        text-align: center;
+    }
+
+}
+
+@media only screen and (min-width: 768px) and (max-width: 991.98px) {
+
+    .variations {
+        padding-top: 60px;
+    }
+    .block-btn {
+        display: none;
+    }
+
+    .total-link {
+        padding: 10px 0px !important;
+    }
+
+    .navbar-expand-lg .navbar-nav .margin-left-side {
+        border: none;
+    }
+
+    #Construction-Company {
+        display: none;
+    }
+
+    .navbar-cool-box {
+        top: 0px;
+    }
+
+    .gm-mark {
+        font-weight: 700;
+        font-size: 35px !important;
+        color: #1C2035 !important;
+    }
+
+    .carousel-caption {
+        top: 55px;
+    }
+
+    .your-side {
+        font-size: 72px !important;
+    }
+
+    /* card  */
+
+    .workers {
+        font-size: 39px;
+    }
+
+
+
+}
+
+@media only screen and (min-width: 992px) and (max-width: 1199.98px) {
+    .your-side {
+        font-size: 60px !important;
+
+    }
+
+    .navbar .nav-item .dropdown-menu {
+        display: block;
+        border: none;
+        margin-top: 0;
+        top: 100px;
+        opacity: 0;
+        visibility: hidden;
+        transition: .5s;
+      }
+
+      .navbar .nav-item:hover .dropdown-menu {
+        top: 77px;
+        visibility: visible;
+        transition: .5s;
+        opacity: 1;
+        background-color: #F1F3FA;
+      }
+
+    .carousel-caption {
+        top: 115px;
+    }
+
+    .phone a {
+        margin: 0px 6px;
+    }
+
+    .social-icons {
+        top: 33%;
+    }
+
+    .variations {
+        padding-top: 60px;
+    }
+    .Clients {
+        font-size: 40px;
+    }
+
+    /* card  */
+
+    .workers {
+        font-size: 43px;
+    }
+
+}
+
+@media only screen and (min-width: 1200px) and (max-width: 1399.98px) {
+    .your-side {
+        font-size: 80px !important;
+
+    }
+
+    .navbar .nav-item .dropdown-menu {
+        display: block;
+        border: none;
+        margin-top: 0;
+        top: 100px;
+        opacity: 0;
+        visibility: hidden;
+        transition: .5s;
+      }
+
+      .navbar .nav-item:hover .dropdown-menu {
+        top: 77px;
+        visibility: visible;
+        transition: .5s;
+        opacity: 1;
+        background-color: #F1F3FA;
+      }
+}
+
+@media only screen and (min-width: 1400px) {
+    .navbar .nav-item .dropdown-menu {
+        display: block;
+        border: none;
+        margin-top: 0;
+        top: 100px;
+        opacity: 0;
+        visibility: hidden;
+        transition: .5s;
+      }
+
+      .navbar .nav-item:hover .dropdown-menu {
+        top: 77px;
+        visibility: visible;
+        transition: .5s;
+        opacity: 1;
+        background-color: #F1F3FA;
+      }
+}
